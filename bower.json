@@ -1,0 +1,17 @@
+{
+  "name": "site-template",
+  "homepage": "https://github.com/agyrafa/site-template",
+  "authors": [
+    "agyrafa <agyrafa@gmail.com>"
+  ],
+  "description": "pre config to websites",
+  "main": "public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
